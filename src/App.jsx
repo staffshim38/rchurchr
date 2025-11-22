@@ -66,7 +66,7 @@ function App() {
       padding: '40px 20px',
       fontFamily: 'system-ui, -apple-system, sans-serif'
     }}>
-      <h1 style={{ marginBottom: '30px', color: '#1a1a1a' }}>Supabase 연결 테스트</h1>
+      <h1 style={{ marginBottom: '30px', color: '#1a1a1a' }}>교회 참석자 명부</h1>
 
       {error && (
         <div style={{
